@@ -1,5 +1,6 @@
-# txt-tojson
-![Uploading image.png…]()
+# txt-to json
+<img width="2306" height="2375" alt="image" src="https://github.com/user-attachments/assets/db3152e1-6f9f-4a45-9121-b1b6a8414a40" />
+
 
 把《黄帝内经大词典》这类 TXT 文本拆分、清洗并导出为结构化 JSON 的小工具，包含：
 

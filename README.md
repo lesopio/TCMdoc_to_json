@@ -1,4 +1,5 @@
 # txt-tojson
+<img width="250" height="614" alt="image" src="https://github.com/user-attachments/assets/17f506eb-5ae7-4cf3-8dfd-b212759ff937" />
 
 把《黄帝内经大词典》这类 TXT 文本拆分、清洗并导出为结构化 JSON 的小工具，包含：
 
